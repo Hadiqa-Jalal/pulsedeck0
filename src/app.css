@@ -13,7 +13,6 @@
 .qr-share{display:flex;flex-direction:column;align-items:center;gap:5px;padding:7px 9px;background:#fff;border:1px solid #e9e6f5;border-radius:10px;color:#77738e;font-size:9px;font-weight:700;flex:0 0 auto}
 .qr-share img{display:block;width:76px;height:76px;object-fit:contain;border-radius:4px}
 @media(max-width:520px){.qr-share{flex-direction:row;gap:8px}.qr-share img{width:48px;height:48px}}
-
 /* Quiz feedback is a learning aid, not just a correctness badge. */
 .student-quiz-feedback{display:block;margin-top:10px;line-height:1.55}
 .student-quiz-feedback p{margin:5px 0 0;font-weight:400}
